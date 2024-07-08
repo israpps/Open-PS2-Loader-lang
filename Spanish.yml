@@ -319,8 +319,13 @@ translations:
   LANGUAGE_SIMPL_CHINESE: Chino simplificado
   OSD_SETTINGS: Configuración OSD
   OSD_SETTINGS_LNG: Idioma OSD
-  ENABLE_LNG: Cambiar Idioma
+  ENABLE_LNG: Habilitar
   BGM: Música
   BGM_VOLUME: Volumen música
   DEF_BGM_PATH: Ruta de la canción
   DEF_BGM_PATH_HINT: Indica donde está ubicada la canción a usar para el tema
+  HINT_OSD_SETTINGS_LNG: Forzar una configuracion personalizada de lenguaje
+  OSD_SETTINGS_TVASPECT: Relación de aspecto
+  FULL_SCREEN: Pantalla completa
+  OSD_SETTINGS_VMODE: Modo de video
+  SYSTEM_DEFAULT: Por defecto del sistema
